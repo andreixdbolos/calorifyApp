@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable-v24_earth_texture.jpg.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\drawable-v24\\earth_texture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable_navi.jpg.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\drawable\\navi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\layout_activity_recipes.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\layout\\activity_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable-v24_cat.jpg.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\drawable-v24\\cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable_edit_text_border.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\drawable\\edit_text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable_mihaita.jpg.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\drawable\\mihaita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-19:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-21:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\layout_activity_earth_moon_view.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\layout\\activity_earth_moon_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-pngs-14:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable_explosion.jpg.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\drawable\\explosion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-19:\\drawable-v24_moon_picture.jpg.flat",
+        "source": "C:\\Users\\Om\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-21:\\drawable-v24\\moon_picture.jpg"
+    }
+]

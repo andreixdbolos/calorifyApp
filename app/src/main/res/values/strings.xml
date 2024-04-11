@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalorifyApp</string>
+    <string-array name="activity_levels">
+        <item>Sedentary</item>
+        <item>Light</item>
+        <item>Moderate</item>
+        <item>Active</item>
+    </string-array>
+</resources>
